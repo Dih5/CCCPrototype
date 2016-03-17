@@ -13,11 +13,11 @@ This project includes examples of some tools I would like to use in my future pr
 
 ## Features
 
- * 	- Compilation with only CPU C-implemented code and with GPU CUDA C-implemented alternative
- * 	- Both makefile and Nsight (Eclipse) compilation tools
- * 	- [Doxygen](http://www.stack.nl/~dimitri/doxygen/index.html) for documentation
- * 	- Unit test support using [CuTest](http://cutest.sourceforge.net/)
- * 	- Git-ready structure
+ * Compilation with only CPU C-implemented code and with GPU CUDA C-implemented alternative
+ * Both makefile and Nsight (Eclipse) compilation tools
+ * [Doxygen](http://www.stack.nl/~dimitri/doxygen/index.html) for documentation
+ * Unit test support using [CuTest](http://cutest.sourceforge.net/)
+ * Git-ready structure
 
 
 
